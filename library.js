@@ -1,3 +1,7 @@
+class Library {
+	
+}
+
 let container = document.querySelector('.container')
 let newForm  = document.querySelector('.form');
 let newButton = document.querySelector('.newBook');
